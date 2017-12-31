@@ -1,0 +1,166 @@
+body{
+background-color:#222223;
+font-family: sans-serif;
+margin: 0px;
+}
+
+#subject{
+    text-align: center;
+    font-size: 64px;
+    text-decoration: underline;
+}
+
+#junior{
+    text-align: center;
+    font-size: 32px;
+    font-style: italic;
+
+}
+
+#one{
+    border-style: double;
+    background-color: beige;
+    border-width: 10px;
+    border-radius: 8px;
+    
+}
+#one h1,p{
+    margin-left: 13px;
+}
+
+#one img{
+    margin-left: 8px
+}
+#two{
+    border-style: double;
+    background-color: beige;
+    border-width: 10px;
+    border-radius: 8px;
+}
+#two h1, p{
+    margin-left: 15px
+}
+#two img{
+    margin-left: 10px;
+    border-width: 100px;
+    border-style: double;
+}
+
+#three{
+    border-style: double;
+    background-color: beige;
+    border-width: 10px;
+    border-radius: 8px;
+}
+
+
+#three h1,p{
+    margin-left: 20px;
+}
+
+
+#hero{
+    background: url("https://hdwallsource.com/img/2014/3/great-wall-of-china-wallpaper-36530-37363-hd-wallpapers.jpg");
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    top: 0;
+    bottom: o;
+    height: 100vh;
+    z-index: -10;
+}
+#over{
+position: absolute;
+background-color: rgba(0,0,0,0.5);
+top: 0;
+bottom: 0;
+height: 100%;
+width: 100%;
+z-index: -5;
+}
+
+#all{
+    background-color: beige;
+    backface-visibility: 25%;
+    border-style: double;
+    border-width: 10px;
+    border-radius: 8px
+}
+
+.parallax1 {
+            /* The image used */
+            background-image: url("http://cdn.coresites.factorymedia.com/mpora_new/wp-content/uploads/2015/11/physics1.jpg");
+
+            /* Set a specific height */
+            min-height: 500px;
+            /* Create the parallax scrolling effect */
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+.parallax2{
+            /* The image used */
+            background-image: url("https://oneclassblog.com/wp-content/uploads/2017/11/biology-101-syllabus-resource-lesson-plans_139158_large.jpg");
+
+            /* Set a specific height */
+            min-height: 500px;
+            /* Create the parallax scrolling effect */
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+.parallax3{
+            /* The image used */
+            background-image: url("https://study.com/cimages/course-image/saxon-calculus-homeschool-online-textbook-help_217252_large.jpg");
+
+            /* Set a specific height */
+            min-height: 500px;
+            /* Create the parallax scrolling effect */
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+.parallax4{
+            /* The image used */
+            background-image: url("https://www.brainscape.com/blog/wp-content/uploads/2014/10/BFBD48DB-DBC8-4234-A5EB-84A1DC684A66.jpg");
+
+            /* Set a specific height */
+            min-height: 500px;
+            /* Create the parallax scrolling effect */
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+.parallax5{
+            /* The image used */
+            background-image: url("http://splash.abc.net.au/splash-image-servlet/mvcservlet/imageServlet/profile2/ABCPDB073");
+
+            /* Set a specific height */
+            min-height: 500px;
+            /* Create the parallax scrolling effect */
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+.parallax6{
+
+
+
+
+
+            /* The image used */
+            background-image: url("http://www.doddridgecountyfair.com/wp-content/uploads/2015/02/Photographyimage.jpeg");
+
+            /* Set a specific height */
+            min-height: 500px;
+            /* Create the parallax scrolling effect */
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
